@@ -1,5 +1,7 @@
 # pcd_image_publisher
 
+ubuntu22 humble
+
 这个储存库用来发布一对指定的pcd和image来测试标定
 
 ## 安装
